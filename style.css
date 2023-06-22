@@ -1,0 +1,130 @@
+* {box-sizing: border-box;}
+
+h1 {font-size:40px !important; line-height:35px !important;}
+body {
+  text-align:center;
+	width:100%;
+  margin: 0;
+  padding: ;
+  background: radial-gradient(#BFD6E2 1px, rgba(255,255,255,0) 2px);
+  background-size: 10px 10px;
+  
+.registration-cssave form {
+   align-items:center;
+  justify-content:center;
+  max-width:474px;
+  padding:50px 100px;
+  border-radius:10px;
+  box-shadow:4px 4px 15px rgba(0, 0, 0, 0.2);
+  background-color:#fff;
+  margin: 50px 50px;
+}
+  
+ .registration-cssave form {
+  align-items:center;
+  justify-content:center;
+  max-width:474px;
+  padding:50px 100px;
+  border-radius:10px;
+  box-shadow:4px 4px 15px rgba(0, 0, 0, 0.2);
+  background-color:#fff;
+  margin: 30px 1000px;
+}
+  
+.registration-cssave .item {
+  text-align:center;
+  border-radius:10px;
+  margin-bottom:25px;
+  padding:10px 20px;
+}
+
+.registration-cssave .create-account {
+  
+  border-radius:4px;
+  padding:15px 80px;
+  font-size:15px;
+  font-weight:bold;
+  background-color:#6E41E2;
+  border:none;
+  color:white;
+  margin-top:20px;
+}
+  
+  .registration-cssave .item {
+  border-radius:10px;
+  margin-bottom:25px;
+  padding:10px 50px;
+}
+}
+
+nav ul {
+  text-align:center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #FFE8DB;
+  border: 6px solid #FF5A00;
+  border-radius: 45px 45px 0px 0px;
+}
+nav a {
+  text-align:center;
+  display: block;
+  text-decoration: none;
+  outline: none; 
+  
+  
+  
+}
+.topmenu {
+  text-align:center;
+  backface-visibility: hidden;
+  background: rgba(255,255,255,.8);
+}
+.topmenu > li {
+  
+  display: inline-block;
+  position: relative;
+}
+.topmenu > li > a {
+  
+  font-family: 'Exo 2', sans-serif;
+  height: 70px;
+  line-height: 70px;
+  padding: 0 30px;
+  font-weight: bold;
+  color: #003559;
+  text-transform: uppercase;
+  transition: .4s ease-in-out;
+
+}
+
+.dropbtn {
+    background-color: #FF0000;
+    color: white;
+    padding: 26px;
+    font-size: 16px;
+    border-radius: 4px 4px 4px 4px;
+}
+input {margin: 10px;}
+
+#footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #39b54a; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+  width: 100%; /* Ширина слоя */
+  border: 6px solid #FF5A00;
+  border-radius: 0px 0px 45px 45px;
+}
+
+
+.dropbtn_2 {
+    align:right;
+    background-color: #4CAF50;
+    color: white;
+    padding: 24px 16px;
+    font-size: 20px;
+    border-radius: 4px 4px 4px 4px;
+}
+/* ______________________________________________________________________________________*/
